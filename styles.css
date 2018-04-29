@@ -193,6 +193,10 @@ html, body {
     background-image: url("images/kleverkey.png");
 }
 
+.kointlin {
+    background-image: url("images/kointlin.png");
+}
+
 a.fill-div {
     display: block;
     height: 100%;
