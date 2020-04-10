@@ -52,7 +52,11 @@ html, body {
 
 .nico-guillen .mdl-card__supporting-text h4 {
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.nico-guillen .mdl-cell h4 {
+    padding-bottom: 20px;
 }
 
 .nico-guillen .mdl-card__supporting-text a {
@@ -189,12 +193,28 @@ html, body {
     opacity: 0.7;
 }
 
+.homefinder {
+    background-image: url("images/homefinder.png");
+}
+
+.carfinder {
+    background-image: url("images/carfinder.png");
+}
+
+.pricefinder {
+    background-image: url("images/pricefinder.png");
+}
+
 .kleverkey {
     background-image: url("images/kleverkey.png");
 }
 
 .kointlin {
     background-image: url("images/kointlin.png");
+}
+
+.homepi {
+    background-image: url("images/homepi.png");
 }
 
 a.fill-div {
